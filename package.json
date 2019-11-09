@@ -5,7 +5,7 @@
   "main": "mains.js",
   "scripts": {
     "test": "tmains",
-    "start": "node server.js"
+    "start": "node mains.js"
   },
   "repository": {
     "type": "git",
